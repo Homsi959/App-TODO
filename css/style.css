@@ -13,7 +13,7 @@ menu{display:block}summary{display:list-item}canvas{display:inline-block}templat
 body {
     color: white;
     min-height: 100vh;
-    background: url(/images/bg.jpg) no-repeat;
+    background: url(../images/bg.jpg) no-repeat;
     background-size: cover;
 }
 
